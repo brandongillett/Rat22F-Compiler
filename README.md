@@ -13,7 +13,7 @@ python3 ratf.py [INPUTFILE] -o [OUTPUTFILE]
 
 ### Grammar For Rat22F
 
-![image](https://user-images.githubusercontent.com/82180479/208268855-d9fda511-a648-48fa-98c0-adf55f006fa0.png)
+![image](https://user-images.githubusercontent.com/82180479/208269680-f2803b52-c9e4-400a-be38-dedb66303e0c.png)
 
 
 
