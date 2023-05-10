@@ -13,8 +13,6 @@
   This project a sophisticated project that delves into the world of compilers and programming languages. Allow me to introduce this ambitious endeavor and shed light on the intricacies involved.
   </p>
   </h3>
-
-<img src="https://github.com/brandongillett/Space-Invaders-Game/assets/82180479/a600c7cd-171b-46d6-bfe7-5c89d3fc8953" alt="Girl in a jacket" width="1000" height="500">
   
 ## 📝 Table of Contents
 - [About](#about)
