@@ -43,7 +43,7 @@ sudo apt install python3
 -None
 
 ### Running
-After downloading Python3 and installing prerequisites you can now run the game using following command!
+After downloading Python3 and installing prerequisites you can now run and use the RAT22F programming langauge!
 ```
 python3 ratf.py [INPUTFILE] -o [OUTPUTFILE]
 ```
