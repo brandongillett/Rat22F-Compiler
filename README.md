@@ -3,11 +3,6 @@
 </p>
 
 <h1 align="center">Rat22F-Compiler</h1>
-
-<div align="center">
-
-</div>
-
 ---
 <h3 align="center">
   This project a sophisticated project that delves into the world of compilers and programming languages. Allow me to introduce this compiler named RAT22F built to interpret c based grammar and transform into assembly code.
