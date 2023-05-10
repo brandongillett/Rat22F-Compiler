@@ -12,7 +12,7 @@
   
 ## 📝 Table of Contents
 - [About](#about)
-- [Programming Styles and Techniques](#techniques)
+- [Programming Styles and Techniques](#-programming-styles-and-techniques-)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Authors](#authors)
@@ -22,7 +22,7 @@
 Rat22F-Compiler is the result of my passion for compiler design and my relentless pursuit of mastering programming languages. Developed during an advanced Compilers lecture, this project showcases my expertise in parsing and syntax analysis.
 
 The primary objective of Rat22F-Compiler is to transform code files written in the Rat22F language, a fictional language specifically created for this project, into assembly code. This process involves dissecting the code into tokens through meticulous lexical analysis. These tokens are then meticulously fed into the robust parser, which employs sophisticated algorithms to identify and enforce the production rules defined by the Rat22F grammar.
-## 💻 Programming Styles and Techniques <a name = "#techniques"></a>
+## 💻 Programming Styles and Techniques <a name = "#-programming-styles-and-techniques-"></a>
 Throughout the development of Rat22F-Compiler, I employed a blend of established programming styles and techniques to ensure a robust and efficient implementation. Leveraging object-oriented programming (OOP) principles, I meticulously designed modular and extensible code structures to achieve clarity and maintainability.
 
 The core of Rat22F-Compiler lies in its parser and syntax analyzer. Through a combination of bottom-up and top-down parsing techniques, I crafted a powerful parser that intelligently analyzes the input code, validates its adherence to the Rat22F grammar, and builds a syntax tree. This meticulous process enables precise identification and resolution of syntax errors.
