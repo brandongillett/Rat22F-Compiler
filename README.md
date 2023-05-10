@@ -10,7 +10,7 @@
 
 ---
 <h3 align="center">
-  This project a sophisticated project that delves into the world of compilers and programming languages. Allow me to introduce this ambitious endeavor and shed light on the intricacies involved.
+  This project a sophisticated project that delves into the world of compilers and programming languages. Allow me to introduce this compiler called RAT22F built to interpret c based grammar and transform into assembly code.
   </p>
   </h3>
   
