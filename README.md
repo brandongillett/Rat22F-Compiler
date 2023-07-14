@@ -6,7 +6,7 @@
 
 ---
 <h3 align="center">
-  This project a sophisticated project that delves into the world of compilers and programming languages. Allow me to introduce this compiler named RAT22F built to interpret c based grammar and transform into assembly code.
+  This is a project that delves into the world of compilers and programming languages. Allow me to introduce this compiler named RAT22F built to interpret c based grammar and transforms into assembly code.
   </p>
   </h3>
   
